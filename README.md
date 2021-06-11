@@ -9,7 +9,7 @@ Procedure :-
   IMPORTANT : Once you reset the machine, remember to remove all the force constant from forced signals (In my case i forced two signals ItemNumber and moneyin) by simply clicking   stop force so that machine can be fully reset.
   
 For the project demo video you can check this linkedin post
-Project Demo Link :- <linkedIn link>
+Project Demo Link :- https://www.linkedin.com/posts/lokiinderr_hi-connections-this-is-a-finite-state-machine-activity-6809187492022030336-qF5w
   
 ---------------------------------------------------------------------------------------------------------------------
 Tough to analyise the if else condition and many problems got solved just by putting one condition that if variable in greater than 0.
