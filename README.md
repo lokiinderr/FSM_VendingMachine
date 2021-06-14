@@ -12,5 +12,7 @@ For the project demo video you can check this linkedin post
 Project Demo Link :- https://www.linkedin.com/posts/lokiinderr_hi-connections-this-is-a-finite-state-machine-activity-6809187492022030336-qF5w
   
 ---------------------------------------------------------------------------------------------------------------------
+OBSERVATION 
 Tough to analyise the if else condition and many problems got solved just by putting one condition that if variable in greater than 0.
 Used inout instead of only in or out because the signals were initialised or given some values at some places in code and we can't do this without inout.
+Signals with inout type didn't got initialized as per commands given in testbench.
